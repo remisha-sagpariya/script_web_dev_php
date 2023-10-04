@@ -1,6 +1,7 @@
 <?php
-$length=5;
-$width=10;
 
-echo $length * $width;
+$length = 14;  
+$width = 12;  
+echo "area of rectangle is $length * $width= " . ($length * $width) . "<br />";  
+
 ?>
